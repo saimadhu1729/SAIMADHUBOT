@@ -54,24 +54,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['918348225320'] //ur owner number
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
-global.ytname = "YT: Deepak Gupta" //ur yt chanel name
-global.socialm = "Instagram: deepak_gupta_2006" //ur github or insta name
+global.vcardowner = ['919505579643'] //ur owner number
+global.ownername = "saimadhu" //ur owner name
+global.ytname = "YT: saimadhu" //ur yt chanel name
+global.socialm = "Instagram: saimadhu1729" //ur github or insta name
 global.location = "India, West Bengal, Darjeeling" //ur location
 
 //bot bomdy 
-global.owner = ['918348225320']
-global.ownertag = '918348225320' //ur tag number
-global.botname = 'ZenitsuBot-MD' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur website to be displayed
-global.botscript = 'https://instagram.com/deepak_gupta_2006/' //script link
+global.owner = ['919505579643']
+global.ownertag = '919505579643' //ur tag number
+global.botname = 'saimadhubot' //ur bot name
+global.linkz = "https://youtube.com/channel/UCvWDlkYjf5_ytqqebR9DAHg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCvWDlkYjf5_ytqqebR9DAHg" //ur website to be displayed
+global.botscript = 'https://instagram.com/saimadhu1729' //script link
 global.reactmoji = "☣️" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "🦄Dream Guy Deepak Stickers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Don't Steal👊🏻🦵🏻 " //ur sticker watermark packname
-global.author = "🦄ZenitsuBot-MD" //ur sticker watermark author
-global.wm = "Zenitsu Bot-MD Presents"
+global.themeemoji = "☣️" //ur theme emoji
+global.packname = "saimadhu Stickers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Don't Steal👊🏻🦵🏻 " //ur sticker watermark packname
+global.author = "☣️saimadhu" //ur sticker watermark author
+global.wm = "saimadhu bot"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -80,7 +80,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['918348225320'] //ur premium numbers
+global.premium = ['919505579643'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -101,7 +101,7 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.sessionName = 'session'
+global.sessionName = 'saimadhu'
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
